@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lavender;
+    color: darkviolet;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: darkblue;
+    margin: 0;
+}
+
+#about {
+    padding: 20px;
+}
+
+img {
+    max-width: 10%;
+    height: 10;
+}
+
+
+#skills,
+#projects,
+#resume,
+#contact {
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    background-color: lavender;
+    color: darkviolet ;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
